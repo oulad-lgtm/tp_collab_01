@@ -1,0 +1,2 @@
+def texte_en_majuscule(texte):
+    return texte.upper()
